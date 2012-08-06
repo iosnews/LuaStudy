@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua
+END
+lauxlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lauxlib.c
+END
+ldebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ldebug.c
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lauxlib.h
+END
+lcorolib.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lcorolib.c
+END
+ldebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ldebug.h
+END
+ltablib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ltablib.c
+END
+liolib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/liolib.c
+END
+lstrlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lstrlib.c
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lualib.h
+END
+ldo.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ldo.c
+END
+ldump.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ldump.c
+END
+lbitlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lbitlib.c
+END
+ldo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ldo.h
+END
+loslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/loslib.c
+END
+luac.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/luac.c
+END
+lundump.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lundump.c
+END
+lua.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lua.hpp
+END
+ldblib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ldblib.c
+END
+lundump.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lundump.h
+END
+lmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lmem.c
+END
+lmathlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lmathlib.c
+END
+lstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lstate.c
+END
+ltm.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ltm.c
+END
+lvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lvm.c
+END
+lmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lmem.h
+END
+lctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lctype.c
+END
+lstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lstate.h
+END
+ltm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ltm.h
+END
+ltable.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ltable.c
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lvm.h
+END
+llex.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/llex.c
+END
+lgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lgc.c
+END
+lctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lctype.h
+END
+loadlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/loadlib.c
+END
+lfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lfunc.c
+END
+lopcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lopcodes.c
+END
+lparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lparser.c
+END
+ltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/ltable.h
+END
+llex.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/llex.h
+END
+lgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lgc.h
+END
+lfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lfunc.h
+END
+lbaselib.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lbaselib.c
+END
+lopcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lopcodes.h
+END
+lparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lparser.h
+END
+lzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lzio.c
+END
+linit.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/linit.c
+END
+lua.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lua.c
+END
+lobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lobject.c
+END
+llimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/llimits.h
+END
+lstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lstring.c
+END
+lzio.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lzio.h
+END
+lapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lapi.c
+END
+lcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lcode.c
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lua.h
+END
+lobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lobject.h
+END
+lstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lstring.h
+END
+lapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lapi.h
+END
+lcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/lcode.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/44262/mobile-client/trunk/ipad/ShadowFiend/ShadowFiend/Supports/Lua/luaconf.h
+END
